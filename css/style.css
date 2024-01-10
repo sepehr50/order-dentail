@@ -16,6 +16,7 @@
     line-height: 1.5;
 }
 
+/* navbar */
 header {
     display: flex;
     justify-content: space-between;
@@ -52,3 +53,20 @@ button.success {
     border-radius: 8px;
 }
 
+/* Main */
+/* .products {
+    height: fit-content;
+    padding-top: 150px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.products.product {
+    display: flex;
+}
+
+.product>div {
+    display: flex;
+    justify-content: space-between;
+} */
